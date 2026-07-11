@@ -2,13 +2,13 @@ export const SITE = {
   name: "LakeBahis",
   tagline: "Güvenilir Bahis ve Casino",
   /** Tanıtım sitesinin kendi domain'i (SEO canonical için) */
-  promoUrl: process.env.NEXT_PUBLIC_SITE_URL ?? "https://lakebahis.vercel.app",
-  /** Ana bahis sitesi */
-  domain: "lakebahis718.com",
-  url: "https://www.lakebahis718.com",
-  loginUrl: "https://www.lakebahis718.com",
-  registerUrl: "https://www.lakebahis718.com",
-  supportEmail: "destek@lakebahis718.com",
+  promoUrl: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.lakebahisonline.com",
+  /** Kalıcı giriş yönlendirme linki — domain değişse bile güncel adrese gider */
+  domain: "lakegrs.link/lakegir",
+  url: "https://lakegrs.link/lakegir",
+  loginUrl: "https://lakegrs.link/lakegir",
+  registerUrl: "https://lakegrs.link/lakegir",
+  supportEmail: "destek@lakebahisonline.com",
   telegramUrl: "https://t.me/lakebahis",
   locale: "tr_TR",
   language: "tr",
