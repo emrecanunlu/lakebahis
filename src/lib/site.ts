@@ -9,7 +9,7 @@ export const SITE = {
   loginUrl: "https://lakegrs.link/lakegir",
   registerUrl: "https://lakegrs.link/lakegir",
   supportEmail: "destek@lakebahisonline.com",
-  telegramUrl: "https://t.me/lakebahis",
+  telegramUrl: "https://t.me/lakegiris",
   locale: "tr_TR",
   language: "tr",
   twitter: "@lakebahis",
