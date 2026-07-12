@@ -246,6 +246,33 @@ export const SEO_PAGE_KEYWORDS: Record<string, string[]> = {
     "LakeBahis BTK engeli giriş",
     "LakeBahis adres bildirimi",
   ],
+  "lakebahis-telegram-giris": [
+    "LakeBahis telegram",
+    "LakeBahis telegram giriş",
+    "LakeBahis telegram kanalı",
+    "t.me lakegiris",
+    "LakeBahis telegram link",
+    "LakeBahis telegram güncel adres",
+    "LakeBahis telegram duyuru",
+  ],
+  "lakebahis-kayit-ol": [
+    "LakeBahis kayıt ol",
+    "LakeBahis üye ol",
+    "LakeBahis üyelik",
+    "LakeBahis kayıt",
+    "LakeBahis hesap aç",
+    "LakeBahis yeni üye",
+    "LakeBahis ücretsiz kayıt",
+  ],
+  "lakebahis-papara-yatirim": [
+    "LakeBahis papara",
+    "LakeBahis papara yatırım",
+    "LakeBahis papara ile yatırım",
+    "LakeBahis papara çekim",
+    "LakeBahis papara minimum",
+    "LakeBahis papara bonus",
+    "LakeBahis hızlı yatırım",
+  ],
 };
 
 export const POST_KEYWORDS: Record<string, string[]> = {
