@@ -1,3 +1,5 @@
+import { SEO_PAGE_KEYWORDS } from "./keywords";
+
 export type SeoPage = {
   slug: string;
   title: string;
@@ -17,7 +19,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis giriş adresi 2026. lakegrs.link/lakegir kalıcı linki üzerinden güvenli giriş, üyelik ve bonus talebi. Domain değişse bile otomatik yönlendirme.",
     keywords: ["LakeBahis giriş", "LakeBahis login", "LakeBahis üye girişi"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "LakeBahis'e nasıl giriş yapılır?",
@@ -50,7 +52,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis güncel adres ve kalıcı giriş linki. lakegrs.link/lakegir — domain değişse bile otomatik yönlendirme.",
     keywords: ["LakeBahis güncel adres", "LakeBahis yeni link", "lakegir"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "LakeBahis güncel adresi nedir?",
@@ -81,7 +83,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis güncel giriş linki lakegrs.link/lakegir. Kalıcı yönlendirme, mobil ve masaüstü giriş ipuçları.",
     keywords: ["LakeBahis güncel giriş", "LakeBahis link", "LakeBahis erişim"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "Güncel giriş linki güvenli mi?",
@@ -106,7 +108,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis bonus rehberi: %100 hoş geldin, yatırım bonusu, kayıp iadesi ve Aviator cashback. Çevrim şartları ve talep adımları.",
     keywords: ["LakeBahis bonus", "LakeBahis hoş geldin", "LakeBahis promosyon"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "Hoş geldin bonusu kaç TL?",
@@ -132,7 +134,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis canlı bahis: futbol, basketbol, tenis, e-spor. 1200+ maç, cash out, canlı izleme ve yüksek oranlar.",
     keywords: ["LakeBahis canlı bahis", "LakeBahis spor", "LakeBahis iddaa"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "Canlı bahiste hangi sporlar var?",
@@ -158,7 +160,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis casino: Evolution Gaming, Pragmatic Live, 180+ canlı masa, Türkçe krupiye, Crazy Time ve rulet.",
     keywords: ["LakeBahis casino", "LakeBahis canlı casino", "LakeBahis rulet"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "Türkçe krupiye var mı?",
@@ -183,7 +185,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis slot: Sweet Bonanza, Gates of Olympus, 5000+ video slot, jackpot ve megaways. Demo mod ve bonus buy.",
     keywords: ["LakeBahis slot", "LakeBahis Sweet Bonanza", "LakeBahis slot oyunları"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "Slot demo modu var mı?",
@@ -208,7 +210,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis Aviator nasıl oynanır? Spribe crash oyunu, otomatik cash out, stratejiler ve günlük cashback.",
     keywords: ["LakeBahis Aviator", "LakeBahis crash", "Aviator giriş"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "Aviator minimum bahis?",
@@ -233,7 +235,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis mobil giriş: tarayıcıdan hızlı erişim, responsive arayüz, iOS/Android uyumluluk ve ana ekran kısayolu.",
     keywords: ["LakeBahis mobil", "LakeBahis mobil giriş", "LakeBahis app"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "Mobil uygulama var mı?",
@@ -258,7 +260,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis güvenilir mi? Curaçao lisansı, SSL şifreleme, ödeme hızı, kullanıcı yorumları ve güvenlik analizi.",
     keywords: ["LakeBahis güvenilir mi", "LakeBahis lisans", "LakeBahis yorum"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "LakeBahis lisanslı mı?",
@@ -289,7 +291,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis ücretsiz bonus, deneme bonusu ve free spin fırsatları. Yeni üyelere özel promosyonlar ve çevrim şartları.",
     keywords: ["LakeBahis ücretsiz bonus", "LakeBahis deneme bonusu", "LakeBahis free spin"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "Deneme bonusu var mı?",
@@ -314,7 +316,7 @@ export const SEO_PAGES: SeoPage[] = [
     description:
       "LakeBahis yeni adres duyurusu. Domain güncellemesi sonrası giriş, hesap güvenliği ve bildirim kanalları.",
     keywords: ["LakeBahis yeni adres", "LakeBahis domain", "lakegir link"],
-    updatedAt: "2026-06-20",
+    updatedAt: "2026-07-13",
     faq: [
       {
         q: "Yeni adrese geçince hesabım silinir mi?",
@@ -335,9 +337,17 @@ export const SEO_PAGES: SeoPage[] = [
 ];
 
 export function getSeoPageBySlug(slug: string): SeoPage | undefined {
-  return SEO_PAGES.find((p) => p.slug === slug);
+  const page = SEO_PAGES.find((p) => p.slug === slug);
+  if (!page) return undefined;
+  return {
+    ...page,
+    keywords: SEO_PAGE_KEYWORDS[page.slug] ?? page.keywords,
+  };
 }
 
 export function getAllSeoPages(): SeoPage[] {
-  return SEO_PAGES;
+  return SEO_PAGES.map((p) => ({
+    ...p,
+    keywords: SEO_PAGE_KEYWORDS[p.slug] ?? p.keywords,
+  }));
 }

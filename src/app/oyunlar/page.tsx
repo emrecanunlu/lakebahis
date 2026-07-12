@@ -9,13 +9,14 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
 import { GAMES } from "@/lib/games";
 import { buildMetadata, breadcrumbJsonLd, webPageJsonLd } from "@/lib/seo";
+import { PAGE_KEYWORDS } from "@/lib/keywords";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Oyunlar",
+  title: "LakeBahis Oyunlar 2026 | Canlı Bahis, Casino, Slot, Aviator",
   description:
-    "LakeBahis'in tüm oyun kategorileri: canlı spor bahisleri, canlı casino, slot oyunları, Aviator, sanal bahis ve e-spor. Her kategori için detaylı tanıtım sayfaları.",
+    "LakeBahis oyun kategorileri: canlı spor bahisleri, canlı casino, 5000+ slot, Aviator crash, sanal bahis ve e-spor. Yüksek oran, Türkçe krupiye, demo mod.",
   path: "/oyunlar",
-  keywords: ["LakeBahis oyunlar", "canlı bahis", "slot", "Aviator"],
+  keywords: [...PAGE_KEYWORDS.oyunlar],
 });
 
 export default function GamesIndex() {
