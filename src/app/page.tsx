@@ -30,8 +30,7 @@ export default function Home() {
       />
       <main className="flex-1">
         <Hero />
-
-        <div className="content-deferred">
+        <EntryHub />
 
         <section className="border-b border-soft">
           <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6 sm:py-16">
@@ -83,9 +82,7 @@ export default function Home() {
           </div>
         </section>
 
-        <EntryHub />
         <FAQ />
-        </div>
       </main>
       <Footer />
       <FloatingCta />
